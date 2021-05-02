@@ -7,6 +7,3 @@ Just add the following list to your pi-hole.
 <code> https://raw.githubusercontent.com/dupontjean/pihole-blocklist/master/game.txt </code>
 
 If you don't have a Raspberry PI, you can edit your hosts file with these settings.
-
-### Extra
-[Enable / Disable block lists on a schedule](https://www.reddit.com/r/pihole/comments/a5p5zm/enable_disable_block_lists_on_a_schedule/)
