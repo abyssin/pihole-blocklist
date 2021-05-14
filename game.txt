@@ -65,6 +65,7 @@
 0.0.0.0	bneteu-a.akamaihd.net
 0.0.0.0	br.leagueoflegends.com
 0.0.0.0	br.ledge.leagueoflegends.com
+0.0.0.0	builds.crazygames.com
 0.0.0.0	bunchkeys.com
 0.0.0.0	bundled.in
 0.0.0.0	bundlestars.com
@@ -1187,3 +1188,9 @@
 0.0.0.0	xsts.auth.xboxlive.com
 0.0.0.0	zh-cn.socialclub.rockstargames.com
 0.0.0.0	zh.socialclub.rockstargames.com
+0.0.0.0 a10.com
+0.0.0.0 crazygames.com
+0.0.0.0 images.crazygames.com
+0.0.0.0 videos.crazygames.com
+0.0.0.0 workers.crazygames.com
+0.0.0.0 www.crazygames.com
