@@ -64,6 +64,7 @@
 0.0.0.0	bundled.in
 0.0.0.0	bundlestars.com
 0.0.0.0	cache-cms-ext-eu.battle.net
+0.0.0.0	cache.secure.square-enix.com
 0.0.0.0	cache1-lhr1.steamcontent.com
 0.0.0.0	cache1-par1.steamcontent.com
 0.0.0.0	cache2-lhr1.steamcontent.com
@@ -212,6 +213,7 @@
 0.0.0.0	dayofdefeat3.net
 0.0.0.0	dayofdefeatmod.com
 0.0.0.0	dayofdefeattv.com
+0.0.0.0	de.finalfantasyxiv.com
 0.0.0.0	de.socialclub.rockstargames.com
 0.0.0.0	deal.kinguin.net
 0.0.0.0	deathmatchclassic.com
@@ -256,6 +258,7 @@
 0.0.0.0	eu.api.blizzard.com
 0.0.0.0	eu.battle.net
 0.0.0.0	eu.cdn.blizzard.com
+0.0.0.0	eu.finalfantasyxiv.com
 0.0.0.0	eu.launcher.battle.net
 0.0.0.0	eu.playstation.com
 0.0.0.0	eu.version.battle.net
@@ -265,14 +268,17 @@
 0.0.0.0	exophase.com
 0.0.0.0	fanatical.com
 0.0.0.0	files.teamspeak-services.com
+0.0.0.0	finalfantasyxiv.com
 0.0.0.0	fonts.ea.com
 0.0.0.0	fonts.ea.com.c.footprint.net
 0.0.0.0	forms.teamspeak.com
 0.0.0.0	forums.steampowered.com
+0.0.0.0	fr.finalfantasyxiv.com
 0.0.0.0	fr.gamesplanet.com
 0.0.0.0	fr.ign.com
 0.0.0.0	fr.socialclub.rockstargames.com
 0.0.0.0	freetoplaythemovie.com
+0.0.0.0	freetrial.finalfantasyxiv.com
 0.0.0.0	friends-public-service-prod06.ol.epicgames.com
 0.0.0.0	g2a.com
 0.0.0.0	g2play.net
@@ -369,6 +375,8 @@
 0.0.0.0	ja.socialclub.rockstargames.com
 0.0.0.0	jeux-video.fnac.com
 0.0.0.0	jeuxvideo.com
+0.0.0.0	jp.finalfantasyxiv.com
+0.0.0.0	jp.square-enix.com
 0.0.0.0	keeptrackofmygames.com
 0.0.0.0	keyofgames.com
 0.0.0.0	kinguin.net
@@ -425,6 +433,7 @@
 0.0.0.0	mx3.steampowered.com
 0.0.0.0	mysteamgauge.com
 0.0.0.0	myteamspeak.com
+0.0.0.0	na.finalfantasyxiv.com
 0.0.0.0	na.leagueoflegends.com
 0.0.0.0	ncsoft.com
 0.0.0.0	nds-network-nav.ea.com
@@ -507,6 +516,7 @@
 0.0.0.0	scrap.tf
 0.0.0.0	secure-asset-delivery.gameforge.com
 0.0.0.0	secure.eu.playstation.com
+0.0.0.0	secure.square-enix.com
 0.0.0.0	servc.eu
 0.0.0.0	sessiondirectory.xboxlive.com
 0.0.0.0	sgtools.info
@@ -528,6 +538,9 @@
 0.0.0.0	sonyentertainmentnetwork.com
 0.0.0.0	source.valvesoftware.com
 0.0.0.0	sourcefilmmaker.com
+0.0.0.0	square-enix-games.com
+0.0.0.0	square-enix.com
+0.0.0.0	square-enix.net.cn
 0.0.0.0	ssl.steamserver.net
 0.0.0.0	ssl2.steamserver.net
 0.0.0.0	stadia.dev
@@ -629,6 +642,7 @@
 0.0.0.0	steamworkshopdownloader.com
 0.0.0.0	store-beta.steampowered.com
 0.0.0.0	store.akamai.steamstatic.com
+0.0.0.0	store.finalfantasyxiv.com
 0.0.0.0	store.playstation.com
 0.0.0.0	store.silagames.com
 0.0.0.0	store.steamgames.com
@@ -638,6 +652,7 @@
 0.0.0.0	storefront.stage.steampowered.com
 0.0.0.0	storefront.steamgames.com
 0.0.0.0	storefront.steampowered.com
+0.0.0.0	support.na.square-enix.com
 0.0.0.0	support.steamgames.com
 0.0.0.0	support.steampowered.com
 0.0.0.0	teachwithportals.com
@@ -1010,6 +1025,7 @@
 0.0.0.0	www.eurogamer.net
 0.0.0.0	www.exophase.com
 0.0.0.0	www.fanatical.com
+0.0.0.0	www.finalfantasyxiv.com
 0.0.0.0	www.g2a.com
 0.0.0.0	www.g2play.net
 0.0.0.0	www.game.co.uk
@@ -1038,6 +1054,7 @@
 0.0.0.0	www.indiegala.com
 0.0.0.0	www.instant-gaming.com
 0.0.0.0	www.jeuxvideo.com
+0.0.0.0	www.jp.square-enix.com
 0.0.0.0	www.kinguin.net
 0.0.0.0	www.lazyguysbundle.com
 0.0.0.0	www.leagueoflegends.com
@@ -1072,6 +1089,8 @@
 0.0.0.0	www.scdkey.com
 0.0.0.0	www.sgtools.info
 0.0.0.0	www.sitegeek.fr
+0.0.0.0	www.square-enix.com
+0.0.0.0	www.square-enix.net.cn
 0.0.0.0	www.steamcardexchange.net
 0.0.0.0	www.steamcompletionist.net
 0.0.0.0	www.steamgifts.com
