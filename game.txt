@@ -1,6 +1,7 @@
 0.0.0.0	2game.com
 0.0.0.0	3games1box.com
 0.0.0.0	5games1box.com
+0.0.0.0	a10.com
 0.0.0.0	abtesting.roblox.com
 0.0.0.0	account-public-service-prod03.ol.epicgames.com
 0.0.0.0	account.ubisoft.com
@@ -195,6 +196,7 @@
 0.0.0.0	counterstrike5.net
 0.0.0.0	counterstriketv.com
 0.0.0.0	crash.steampowered.com
+0.0.0.0	crazygames.com
 0.0.0.0	cs-conditionzero.com
 0.0.0.0	cs.steampowered.com
 0.0.0.0	csonline.com.tr
@@ -380,6 +382,7 @@
 0.0.0.0	images-eds.xboxlive.com
 0.0.0.0	images-ext-1.discordapp.net
 0.0.0.0	images-ext-2.discordapp.net
+0.0.0.0	images.crazygames.com
 0.0.0.0	images.rbxcdn.com
 0.0.0.0	indiegala.com
 0.0.0.0	install.gameforge.com
@@ -1042,6 +1045,7 @@
 0.0.0.0	valvestore.net
 0.0.0.0	valvesucks.com
 0.0.0.0	videos-rockstargames-com.akamaized.net
+0.0.0.0	videos.crazygames.com
 0.0.0.0	vodo.net
 0.0.0.0	voidu.com
 0.0.0.0	wargaming.net
@@ -1054,6 +1058,7 @@
 0.0.0.0	whatsinsidetheorangebox.com
 0.0.0.0	wingamestore.com
 0.0.0.0	wol.gg
+0.0.0.0	workers.crazygames.com
 0.0.0.0	worldoftanks.asia
 0.0.0.0	worldoftanks.com
 0.0.0.0	worldoftanks.eu
@@ -1074,6 +1079,7 @@
 0.0.0.0	www.chrono.gg
 0.0.0.0	www.cjs-cdkeys.com
 0.0.0.0	www.completionator.com
+0.0.0.0	www.crazygames.com
 0.0.0.0	www.dailyindiegame.com
 0.0.0.0	www.discordapp.com
 0.0.0.0	www.dlcompare.fr
@@ -1187,9 +1193,3 @@
 0.0.0.0	xsts.auth.xboxlive.com
 0.0.0.0	zh-cn.socialclub.rockstargames.com
 0.0.0.0	zh.socialclub.rockstargames.com
-0.0.0.0 a10.com
-0.0.0.0 crazygames.com
-0.0.0.0 images.crazygames.com
-0.0.0.0 videos.crazygames.com
-0.0.0.0 workers.crazygames.com
-0.0.0.0 www.crazygames.com
