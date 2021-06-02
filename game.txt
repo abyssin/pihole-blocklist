@@ -1,4 +1,3 @@
-0.0.0.0	0.0.0.0
 0.0.0.0	2game.com
 0.0.0.0	3games1box.com
 0.0.0.0	5games1box.com
